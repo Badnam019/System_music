@@ -79,7 +79,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 text="Oᴡɴᴇʀ🥀", url="https://t.me/friends_kiDuniya",
             ),
             InlineKeyboardButton(
-                text="Cʜᴀᴛ🥀", url="https://t.me/friends_kiDuniya",
+                text="Cʜᴀᴛ🥀", url="https://t.me/+LzNBuSPw0ZxlZTJl",
             )
         ],
          [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -102,7 +102,7 @@ def stream_markup(_, videoid, chat_id):
                 text="Oᴡɴᴇʀ🥀", url="https://t.me/friends_kiDuniya",
             ),
             InlineKeyboardButton(
-                text="Cʜᴀᴛ🥀", url="https://t.me/friends_kiDuniya",
+                text="Cʜᴀᴛ🥀", url="https://t.me/+LzNBuSPw0ZxlZTJl",
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
